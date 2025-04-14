@@ -1,4 +1,16 @@
 <p align="center">
+  <a href="https://react-next-showcase-pro-git-main-harshitchamps-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%2300C853?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio Badge" />
+  </a>
+</p>
+
+<h1 align="center">🌐 <a href="https://react-next-showcase-pro-git-main-harshitchamps-projects.vercel.app/" target="_blank">My Portfolio</a></h1>
+
+<p align="center">
+  Explore all my projects, skills, and achievements in one place!
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Harshit+Verma;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -23,7 +35,7 @@ _G.L. Bajaj Institute of Technology and Management (2021 - Present)_
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,nextjs,mongodb,python,cpp,git,github,linux,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,mongodb,python,cpp,git,github,linux,docker,postman,vscode" />
 </p>
 
 ---
@@ -96,4 +108,3 @@ _G.L. Bajaj Institute of Technology and Management (2021 - Present)_
 </p>
 
 ---
-
