@@ -1,81 +1,72 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F77B00&width=435&lines=Hey+there!+I'm+Harshit+Verma;Full+Stack+Developer+%7C+Problem+Solver;Welcome+to+My+Coding+World!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+💼 HARSHIT VERMA
+📍 Agra, India   |   📞 +91 8979616050   |   ✉️ vermaharshit022002@gmail.com
+🌐 LinkedIn • GitHub • Portfolio
 
-<h1 align="center">🌟 Welcome to My GitHub Universe 🌟</h1>
-<h3 align="center">Exploring ideas, one project at a time 🚀</h3>
+🚀 Summary
+Dynamic and creative Full Stack Developer specializing in modern web technologies, scalable backend systems, and intuitive UI/UX. Passionate about problem-solving, product building, and continuous learning.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshitchamp&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/> 
-  <a href="https://github.com/Harshitchamp?tab=followers"><img src="https://img.shields.io/github/followers/Harshitchamp?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://github.com/Harshitchamp?tab=repositories"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"></a>
-</p>
+🎓 Education
+B.Tech - Computer Science & Engineering
+📍 G.L Bajaj Institute of Technology & Management — 11/2021–Present
+CGPA: 7.44
 
----
+Higher Secondary Education
+📍 M.D Jain Inter College, Agra — 2019–2020
+Percentage: 86.5%
 
-### 🎯 About Me
-- 🔭 *Currently working on:* Developing full-stack web applications and mastering *Data Structures and Algorithms*.
-- 💡 *Passionate about:* Problem-solving, coding challenges, and creating real-world solutions using technology.
-- 🌱 *Learning:* Advanced backend architecture and optimization techniques.
-- 🎯 *Focus areas:* *Full Stack Development, **Node.js, MongoDB, React.js, and JavaScript*.
-- 💬 *Ask me about:* Web Development, JavaScript Frameworks, Software Architecture, and IoT-based Projects.
+Secondary Education
+📍 M.D Jain Inter College, Agra — 2017–2018
+Percentage: 73%
 
----
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,nextjs,mongodb,python,cpp,tailwind,git,github,docker,linux,postman,vscode" /> </p>
+🌟 Projects
+🌿 Plant Stress Detector
+AI-driven app for detecting plant stress (drought, disease, pests) using image recognition and weather APIs.
+Tech: React.js, TailwindCSS, Shadcn-ui, APIs • Tools: Vercel, Postman, VS Code
 
-### 🛠 My Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,postman,git,github,react,bootstrap" alt="Tech Stack Icons" />
-</div>
+🚇 Metro Seat Finder Capacity
+IoT & AI powered real-time crowd and seat detection system for metro trains.
+Tech: React.js, Node.js, TailwindCSS, APIs • Tools: Vercel, Postman, VS Code
 
----
+💳 Robust Retry Payment Mechanism
+Designed a retry mechanism for handling failed transactions with reliability and resilience.
+Tech: Node.js, JavaScript • Tools: Postman, Netlify
 
-### 🏆 Highlights: My Projects
-Here’s what I’ve been working on:
+🧠 Skills
+Languages: C++, Python, JavaScript, TypeScript, SQL
 
-| 🌟 *Project Name*                     | 💡 *Description*                                                                                                 | 🚀 *Tech Stack*                          |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| *[Plant Stress Detector](https://plant-stress-detector.netlify.app)* | Developed an IoT-powered app for plant stress detection with real-time data and weather API integration.            | HTML, CSS, JavaScript, Node.js            |
-| *[Travel Smart Companion](https://travel-smart-companion.netlify.app)* | Built a travel companion app with real-time weather and personalized recommendations.                              | HTML, CSS, JavaScript, Node.js            |
-| *[Robust Retry Payment Mechanism](https://robust-retry-payment-mechanism.netlify.app)* | Designed a robust retry payment mechanism using Node.js to ensure seamless transaction processing.                | Node.js, JavaScript                       |
+Frontend: HTML, CSS, React.js, Next.js, TailwindCSS
 
----
+Backend: Node.js, Express.js, MongoDB, REST APIs
 
-### ✨ Dynamic GitHub Widgets
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitchamp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitchamp&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+Tools & Platforms: Git, GitHub, Docker, Postman, Linux, Netlify, Vercel
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitchamp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+Soft Skills: Strategic thinking, Leadership, Quick Learner, Adaptability
 
----
+📜 Certifications
+✅ C++ (Coding Ninjas)
 
-### 🌟 Fun Features
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Inspirational Quote" />
-</p>
+✅ JavaScript
 
----
+✅ Python
 
-### 🌍 Connect with Me
-<p align="center">
-  <a href="mailto:vermaharshit022002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/harshit-verma-85000725b/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Harshitchamp"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/harshitverma/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-</p>
+✅ SQL (Advanced)
 
----
+✅ Cybersecurity Virtual Internship
 
-### 🧙 Fun Facts
-- 💡 “The best way to predict the future is to create it.”
-- 🐱‍💻 *Favorite Debugging Line:* console.log('It’s working...or is it? 🤔')
+🏆 Achievements
+🥈 2nd Place – Inter-school Debate Competition
 
----
+👨‍💻 LeetCode: 250+ Problems
 
-### 🎉 Let’s Build Something Great Together
-> “Code is like humor. When you have to explain it, it’s bad.”
+👨‍💻 GFG: 150+ Problems
 
-Feel free to connect or explore my projects. Let’s innovate and create impactful solutions!
+👨‍💻 Coding Ninjas: 150+ Problems
+
+🎓 Viksit Bharat Yuva Certificate
+
+📌 Extra-curricular
+📢 Member of National Service Scheme (NSS)
+
+📚 Passionate about tech blogging and open-source
