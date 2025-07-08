@@ -94,6 +94,15 @@ _G.L. Bajaj Institute of Technology and Management (2021 - Present)_
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitchamp&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitchamp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## ✨ Quote I Live By
 > “The best way to predict the future is to create it.”
 
@@ -106,5 +115,3 @@ _G.L. Bajaj Institute of Technology and Management (2021 - Present)_
   <a href="https://github.com/Harshitchamp"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/harshitverma/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
-
----
