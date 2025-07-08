@@ -61,6 +61,13 @@ _G.L. Bajaj Institute of Technology and Management (2021 - Present)_
 - Seamless retry logic for payment failures to ensure user-friendly transactions  
 
 ---
+### 🌍 [Globe Trotter Advisor Pro](https://globe-trotter-advisor-pro-git-main-harshitchamps-projects.vercel.app/)
+- **Tech:** React.js, TailwindCSS, RapidAPI, JavaScript  
+- Personalized travel planner with real-time recommendations  
+- Provides location-based hotels, restaurants, and activities  
+- Ideal for travelers and travel agencies looking for smart itinerary suggestions  
+
+---
 
 ## 📚 Coursework & Certifications
 - **Core Subjects:** DSA, OS, DBMS, CN  
